@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dahye%20LEE&fontColor=ffffff&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=DAHYE%20LEE&fontColor=ffffff&textBg=false)
 
 
 
