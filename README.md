@@ -23,8 +23,3 @@
 <p align="left">
 <a href="https://instagram.com/heydahyee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heydahyee" height="30" width="40" /></a>
 </p>
-
-## Basic Information
-Name: Dahye Lee
-
-Age: 26 (international age)
